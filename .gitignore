@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# Trained models
+*.h5
+*.pkl
+
+# Large datasets
+*.csv
+dynamic_dataset/
+
+# OS
+.DS_Store
+Thumbs.db
