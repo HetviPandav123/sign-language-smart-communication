@@ -164,6 +164,13 @@ This system enables **real-time ISL to speech translation**, making communicatio
 **Hetvi Pandav**
 BE – Artificial Intelligence & Machine Learning
 
+
+https://github.com/user-attachments/assets/0291d2be-7cc2-4521-8bce-1b288516b94a
+
+
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
+
+
