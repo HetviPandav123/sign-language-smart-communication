@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/71d4b8d2-443e-41b3-a5e7-9cc44beda388
+
 
 # Indian Sign Language Smart Communication Tool
 
@@ -69,7 +69,7 @@ sign_lang_smart_comm/
   ```
   isl_alphabet_model.pkl
   ```
-
+https://github.com/user-attachments/assets/71d4b8d2-443e-41b3-a5e7-9cc44beda388
 ---
 
 ## 🎥 Dynamic Sign Recognition (Hello & Thank You)
