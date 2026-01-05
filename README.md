@@ -98,6 +98,10 @@ Example shape:
 
 ---
 
+
+https://github.com/user-attachments/assets/52a8b8ed-b645-4b15-99c0-eb7084307ea5
+
+
 ## 🔄 Real-Time Logic
 
 * **Low motion** → Static model (letters)
