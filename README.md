@@ -1,8 +1,9 @@
 
 
 
+---
 
-🧏‍♀️ SignBridge — Indian Sign Language Smart Communication System
+## 🧏‍♀️ SignBridge — Indian Sign Language Smart Communication System
 
 SignBridge is a real-time Indian Sign Language (ISL) to Text communication system that converts static and dynamic hand gestures into readable sentences, with live translation support, using Computer Vision + Machine Learning.
 
