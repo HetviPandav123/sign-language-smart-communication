@@ -13,14 +13,14 @@ SignBridge is a real-time Indian Sign Language (ISL) to Text communication syste
 
 * ✅ Works as a single-click executable (SignBridge.exe)
 * 🖐️ Real-time hand tracking using MediaPipe
-🔤 Static ISL alphabet recognition (A–Z)
-🎥 Dynamic word recognition (e.g. Hello, Thank You)
-🧠 Intelligent motion-based switching between static & dynamic signs
-📝 Automatic sentence building with spacing logic
-🌐 Live translation (English ↔ Hindi)
-🖥️ Web-based UI served locally via Flask
-🔄 Real-time frontend updates using Socket.IO
-⚡ Optimized for performance & deployment (PyInstaller-ready)
+* 🔤 Static ISL alphabet recognition (A–Z)
+* 🎥 Dynamic word recognition (e.g. Hello, Thank You)
+* 🧠 Intelligent motion-based switching between static & dynamic signs
+* 📝 Automatic sentence building with spacing logic
+* 🌐 Live translation (English ↔ Hindi)
+* 🖥️ Web-based UI served locally via Flask
+* 🔄 Real-time frontend updates using Socket.IO
+* ⚡ Optimized for performance & deployment (PyInstaller-ready)
 
 ---
 
