@@ -11,8 +11,8 @@ SignBridge is a real-time Indian Sign Language (ISL) to Text communication syste
 
 ## 🎯 Project Features
 
-✅ Works as a single-click executable (SignBridge.exe)
-🖐️ Real-time hand tracking using MediaPipe
+* ✅ Works as a single-click executable (SignBridge.exe)
+* 🖐️ Real-time hand tracking using MediaPipe
 🔤 Static ISL alphabet recognition (A–Z)
 🎥 Dynamic word recognition (e.g. Hello, Thank You)
 🧠 Intelligent motion-based switching between static & dynamic signs
