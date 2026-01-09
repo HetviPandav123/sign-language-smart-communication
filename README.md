@@ -98,6 +98,7 @@ sign-language-smart-communication/
 * Runs automatically in browser at:
     http://127.0.0.1:5000
 * Browser opens automatically when the app starts.
+![final_system](https://github.com/user-attachments/assets/fe8c9537-a790-4bde-8c24-fccef625c601)
 
 ---
 
