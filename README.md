@@ -45,7 +45,6 @@ SignBridge is a real-time Indian Sign Language (ISL) to Text communication syste
 
 **Core Technologies**
 * Python
-* OpenCV
 * MediaPipe
 * NumPy, Pandas
 * Scikit-learn
