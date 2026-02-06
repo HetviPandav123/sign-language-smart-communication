@@ -110,7 +110,7 @@ sign-language-smart-communication/
 
 * Each alphabet (A–Z) has its own folder
 * Data stored as `data.csv`
-* Each row contains **126 features** (21 landmarks × 3 × 2 hands)
+* Each row contains **126 features** (21 landmarks × 3 dimensions × 2 hands)
 
 ### Training
 
